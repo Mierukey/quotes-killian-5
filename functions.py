@@ -11,8 +11,7 @@ def load_quotes(filename):
     return quotes
 
 def random_quote(quotes):
-    random_quote = random.choice(quotes)
-    return random_quote
+    return random.choice(quotes)
 
 def print_quote(quote):
     print(quote)
@@ -20,9 +19,9 @@ def print_quote(quote):
 def view_quotes(quotes):
     for quote in quotes:
         print_quote(quote)
+
 def add_quote(quotes, filename):
     new_quote = input("Enter a new quote: ")
     quotes.append(new_quote)
-    
     with open(filename, 'a') as file:
-        file.write(new_quote)
+        file.write(new_quote + '\n')
