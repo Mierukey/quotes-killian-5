@@ -6,5 +6,5 @@
 
 ## Fork urls
 - `contributor-1`: [quotes-maxence1-5](url-1)
-- `contributor-2`: [quotes-killian2-5](https://github.com/Mierukey/quotes-killian2-5)
+- `contributor-2`: [quotes-killian2-5](url-2)
 - `contributor-3`: [quotes-maxence2-5](url-3)
