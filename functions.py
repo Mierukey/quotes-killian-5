@@ -25,3 +25,12 @@ def add_quote(quotes, filename):
     quotes.append(new_quote)
     with open(filename, 'a') as file:
         file.write(new_quote + '\n')
+
+def display_quotes(quotes, count):
+    if count >= len(quotes):
+        print("All Quotes:")
+        view_quotes(quotes)
+    else:
+        print(f"First {count} Quotes:")
+        for i in range(count):
+            print_quote(quotes[i])
