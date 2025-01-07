@@ -1,7 +1,3 @@
-# Programming Quote Generator
-
-A python program that generates programming quotes and jokes.
-
 ## Contributors
 - `initiator`: Killian Hoarau Groupe 5
 - `contributor-1`: Maxence Zedon Groupe 5
