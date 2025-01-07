@@ -13,3 +13,8 @@ Why don't programmers like to go outside? The sunlight causes too many reflectio
 Why did the programmer get stuck in the shower? The instructions said: Lather, Rinse, Repeat.
 Why do programmers prefer dark chocolate? Because it's byte-sized!
 Why did the programmer bring a ladder to the bar? They heard the drinks were on the house.
+Programmer - An organism that turns caffeine into code
+Why do programmers prefer dark mode? Because light attracts bugs.
+If debugging is the process of removing software bugs, then programming must be the process of putting them in.
+I don't always test my code, but when I do, I do it in production.
+
